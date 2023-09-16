@@ -1,0 +1,43 @@
+Einer Alexis 
+Rol: 
+	Gerente:
+		* Ver los datos de vuelos (Vuelos)
+			Agregar: INSERT
+			Consultar: SELECT 
+			Modificar: UPDATE
+
+		* Ver los datos de los pasajeros (Pasajeros)
+			Agregar: INSERT
+			Consultar: SELECT 
+			Modificar: UPDATE
+
+		* Hacer reservaciones de vuelos (Reservaciones)
+			Agregar: INSERT
+			Consultar: SELECT 
+			Modificar: UPDATE
+
+		* Ver las rutas de los vuelos (Salida y Llegadas)
+			Agregar: INSERT
+			Consultar: SELECT 
+			Modificar: UPDATE
+
+		* Revición de los aviones
+			Consultar: SELECT 
+
+	
+	Vendedor:
+		* Ver detalles de los pasajeros (Pasajeros)
+			Agregar: INSERT
+			Consultar: SELECT 
+			Modificar: UPDATE
+
+		* Ver horarios de vuelos (Salidas y Llegadas)
+			Consultar: SELECT
+
+		* Hacer reservaciones
+			Agregar: INSERT
+			Consultar: SELECT 
+			Modificar: UPDATE
+
+
+RR
